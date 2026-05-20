@@ -215,13 +215,15 @@
 
 #a17{
    font-family: 'Times New Roman', Times, serif;
-    color: rgb(235, 235, 235);
-    font-size: 10px;
+    color: rgb(252, 252, 252);
+    font-size: 25px;
     position: relative;
     display: flex;
     font-weight: bolder;
     white-space: nowrap;
-   line-height: 2.3;
+    top: 70px;
+    right: 310px;
+    align-items: start;
 }
 
 #a18  {
