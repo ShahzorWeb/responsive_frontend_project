@@ -403,7 +403,21 @@ line-height: 1.9;
     position: relative;
     display: flex
 }
+    #a14{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(252, 252, 252);
+    font-size: 14px;
+    position: static;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 70px;
+    right: 310px;
+    align-items: start;
+}
+
 }   
+
 
 /* @media (min-width: 375px) and (max-width: 768px) */
 @media (max-width: 768px)
@@ -461,18 +475,21 @@ line-height: 1.9;
     position: relative;
     display: flex
 }
-}   
-
-@media (min-width: 768px) and (max-width: 867px){
-#a19{
-   
-  width: 1200px;
-  background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
-  height: auto;
-
+    #a14{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(252, 252, 252);
+    font-size: 14px;
+    position: static;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 70px;
+    right: 310px;
+    align-items: start;
 }
 
 }   
+
 
  
 
