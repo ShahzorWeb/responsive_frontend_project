@@ -180,8 +180,8 @@
 #a14{
     font-family: 'Times New Roman', Times, serif;
     color: rgb(252, 252, 252);
-    font-size: 25px;
-    position: relative;
+    font-size: 14px;
+    position: static;
     display: flex;
     font-weight: bolder;
     white-space: nowrap;
