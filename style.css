@@ -214,16 +214,14 @@
 }
 
 #a17{
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
+   font-family: 'Times New Roman', Times, serif;
+    color: rgb(235, 235, 235);
+    font-size: 20px;
     position: relative;
     display: flex;
     font-weight: bolder;
     white-space: nowrap;
-    top: 70px;
-    right: 400px;
-    align-items: start;
+   line-height: 1.9;
 }
 
 #a18  {
