@@ -347,7 +347,7 @@
 
 
 /* @media (min-width: 10px) and (max-width: 375px) */
-@media (max-width: 768px)
+/* @media (max-width: 768px)
 {
     
 #a19{
@@ -403,7 +403,7 @@
     position: relative;
     display: flex
 }
-}   
+}    */
 
 /* @media (min-width: 375px) and (max-width: 768px) */
 /* @media (max-width: 768px)
