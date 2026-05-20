@@ -216,12 +216,12 @@
 #a17{
    font-family: 'Times New Roman', Times, serif;
     color: rgb(235, 235, 235);
-    font-size: 20px;
+    font-size: 10px;
     position: relative;
     display: flex;
     font-weight: bolder;
     white-space: nowrap;
-   line-height: 1.9;
+   line-height: 2.3;
 }
 
 #a18  {
