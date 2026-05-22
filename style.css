@@ -1,0 +1,856 @@
+/* *{
+    margin: 0;
+    padding:0;
+    margin-top: 0% !important;
+    
+
+    
+    
+}
+
+#a19{
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    height: 640px; 
+    padding-left: 100px;
+   
+}
+
+
+
+#a1 {
+    height: 410px;
+    width: 400px;   
+    border: 5px solid brown;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+}
+
+#a2{
+    height: 200px;
+    width: 250px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    bottom: 418px;
+    left: 500px;
+    display: flex;
+    position: relative;
+   background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+   box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+}
+
+#a3{
+     height: 200px;
+    width: 250px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    bottom: 628px;
+    left: 800px;
+    display: flex;
+    position: relative;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+
+}
+
+#a4{
+     height: 200px;
+    width: 250px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    bottom: 627px;
+    left: 500px;
+    display: flex;
+    position: relative;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+    
+}
+
+#a5{
+     height: 200px;
+    width: 250px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    bottom: 837px;
+    left: 800px;
+    display: flex;
+    position: relative;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+}
+
+#a6{
+    height: 100px;
+    width: 1030px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    bottom: 820px;
+    display: flex;
+    position: relative;
+    left: 20px;
+    overflow: hidden;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+    
+}
+
+#a7{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    position: relative;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
+
+#a8{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    bottom: 15px;
+    left: 50px;
+
+}
+
+#a9{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    top: 80px;
+    
+}
+
+
+#a10{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(248, 248, 248);
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    top: 70px;
+}
+
+#a11 img{
+    width: 200px;
+    left: 200px;
+    bottom: 170px;
+    position: relative;
+    display: flex;  
+}
+
+#a12{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(244, 244, 244);
+    font-size: 50px;
+    position: relative;
+    display:flex ;
+    font-style: italic;
+    font-weight: bolder;
+    left: 30px;
+}
+
+#a13{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    position: relative;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 50px;
+    right: 125px;
+}
+
+#a14{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(252, 252, 252);
+    font-size: 25px;
+    position: relative;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 70px;
+    right: 310px;
+    align-items: start;
+}
+
+#a15{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(254, 254, 254);
+    font-size: 35px;
+    position: relative;
+    display:flex ;
+    font-style: italic;
+    font-weight: bolder;
+    left: 28px;
+}
+
+#a16{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    position: relative;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 30px;
+    right: 150px;
+}
+
+#a17{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    position: relative;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+    top: 70px;
+    right: 350px;
+    align-items: start;
+}
+
+#a18  {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 30px;
+    color: #ffffff;
+    animation: slide 10s linear infinite; /* Slide effect */
+    animation-iteration-count: infinite;
+    top: 25px;
+    
+    }
+    @keyframes slide {
+    0% {
+        left: 100%; /* Start from the right side of the screen */
+    }
+    100% {
+        left: -100%; /* Slide to the left, beyond the screen */
+    }
+}
+#a20{
+font-family: 'Times New Roman', Times, serif;
+color: rgb(235, 235, 235);
+font-size: 20px;
+position: relative;
+display: flex;
+font-weight: bolder;
+white-space: nowrap;
+line-height: 1.9;
+    
+}
+
+ #a21{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(255, 255, 255, 0.891);
+    font-size: 20px;
+    position: relative;
+    display: flex;
+    font-weight: bolder;
+    white-space: nowrap;
+   line-height: 1.9;
+}
+
+#a22 img{
+    width: 50px;
+    left: 35px;
+    bottom: 0px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+}
+
+#a23 img{
+    width: 40px;
+    right: 10px;
+    top: 60px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+    
+}
+
+#a24 img{
+    width: 40px;
+    right: 50px;
+    top: 115px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+    
+}
+
+#a25 img{
+    width: 40px;
+    right: 85px;
+    top: 155px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+    
+}
+
+#a26 img{
+    width: 40px;
+    left: 15px;
+    top: 5px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+    
+}
+
+#a27 img{
+    width: 40px;
+    Right: 25px;
+    top: 43px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+    
+}
+
+#a28 img{
+    width: 40px;
+    Right: 65px;
+    top: 95px;
+    position: relative;
+    display: block;
+    margin: 0%; 
+}
+
+#a29 img{
+    width: 40px;
+    Right: 105px;
+    top: 140px;
+    position: relative;
+    display: block;
+    margin: 0; 
+
+}
+
+
+/* @media (min-width: 10px) and (max-width: 375px) */
+@media (max-width: 768px)
+{
+    
+#a19{
+  width: 500px;
+  background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+  display: grid;
+  gap: 10px;
+  padding: 15px;
+  height: auto;
+  
+
+}
+    #a1 {
+    height: 260px;
+    width: 350px;   
+    left: 72px;
+    top: 10px;
+    }
+    #a2 {
+    height: 200px;
+    width: 250px;   
+    left: 140px;
+    top:  15px;
+    }
+    #a3 {
+    height: 200px;
+    width: 250px;   
+    left: 140px;
+    top:  15px;
+    }
+    #a4 {
+    height: 200px;
+    width: 250px;   
+    left: 140px;
+    top:  15px;
+    }
+    #a5 {
+    height: 200px;
+    width: 250px;   
+    left: 140px;
+    top:  15px;
+    }
+    #a6 {
+    height: 100px;
+    width: 350px;   
+    left: 91px;
+    top: 10px;
+    }
+    #a11 img{
+    width: 200px;
+    left: 160px;
+    bottom: 170px;
+    position: relative;
+    display: flex
+}
+}   
+
+/* @media (min-width: 375px) and (max-width: 768px) */
+@media (max-width: 768px)
+{
+#a19{
+   
+  width: 700px;
+  background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+  display: grid;
+  gap: 10px;
+  padding: 15px;
+  height: auto;
+
+}
+    #a1 {
+    height: 260px;
+    width: 500px;   
+    left: 72px;
+    top: 10px;
+    }
+    #a2 {
+    height: 200px;
+    width: 250px;   
+    left: 200px;
+    top:  15px;
+    }
+    #a3 {
+    height: 200px;
+    width: 250px;   
+    left: 200px;
+    top:  15px;
+    }
+    #a4 {
+    height: 200px;
+    width: 250px;   
+    left: 200px;
+    top:  15px;
+    }
+    #a5 {
+    height: 200px;
+    width: 250px;   
+    left: 200px;
+    top:  15px;
+    }
+    #a6 {
+    height: 100px;
+    width: 500px;   
+    left: 91px;
+    top: 10px;
+    }
+    #a11 img{
+    width: 200px;
+    left: 250px;
+    bottom: 170px;
+    position: relative;
+    display: flex
+}
+}   
+
+@media (min-width: 768px) and (max-width: 867px){
+#a19{
+   
+  width: 1200px;
+  background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+  height: auto;
+
+}
+
+}   
+
+ 
+
+
+
+
+
+/*
+@media (max-width: 768px){
+
+  #a19{
+    width: 100% !important;
+    padding: 10px !important;
+    height: auto !important;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+  }
+
+ 
+  #a1, #a2, #a3, #a4, #a5, #a6{
+    width: 95% !important;
+    height: auto !important;
+    margin: 10px 0 !important;
+    position: static !important;
+    padding: 15px;
+  }
+
+ 
+  #a7{
+    font-size: 22px !important;
+    text-align: center;
+  }
+
+  #a8, #a10, #a13, #a14, #a16, #a17{
+    font-size: 14px !important;
+    position: static !important;
+    text-align: center;
+  }
+
+  #a9, #a12, #a15{
+    font-size: 20px !important;
+    position: static !important;
+    text-align: center;
+  }
+
+  #a20, #a21{
+    font-size: 13px !important;
+    position: static !important;
+    text-align: center;
+    line-height: 1.5;
+  }
+
+ 
+  #a11 img{
+    width: 80% !important;
+    display: block;
+    margin: 10px auto;
+    position: static !important;
+  }
+
+  
+  #a22 img, #a23 img, #a24 img, #a25 img,
+  #a26 img, #a27 img, #a28 img, #a29 img{
+    position: static !important;
+    display: inline-block;
+    margin: 5px;
+  }
+
+  #a18{
+    font-size: 14px !important;
+    top: 10px;
+  }
+
+ */
+
+
+
+
+
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== MAIN CONTAINER ===== */
+#a19 {
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* ===== TOP ROW: 3 cards side by side ===== */
+.top-row {
+    display: flex;
+    flex-direction: row;
+    gap: 99px;
+    align-items: flex-start;
+}
+
+/* ===== BOTTOM ROW: 2 small cards ===== */
+.bottom-row {
+    display: flex;
+    flex-direction: row;
+    margin-left: 536; /* align with a2/a3 cards */
+    margin-top: 0px;
+    justify-content: flex-start;
+    gap: 99px;
+    margin-top: -250px;
+}
+
+/* ===== CARD BASE STYLES ===== */
+#a1, #a2, #a3, #a4, #a5, #a6 {
+    border: 5px solid brown;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #4eaafb 0%, #00f2fe 100%);
+    box-shadow: 15px 15px 30px rgba(71, 35, 10, 0.7);
+    padding: 15px;
+    
+}
+
+/* ===== CARD 1: Main weather card (left, tall) ===== */
+#a1 {
+    width: 400px;
+    min-height: 440px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/* ===== CARD 2 & 3: Today / Tomorrow (top right) ===== */
+#a2, #a3 {
+    width: 250px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column; 
+    
+}
+ #a3{
+    margin-top: 7px !important;
+ }
+    
+/* ===== CARD 4 & 5: Details cards (bottom right) ===== */
+#a4, #a5 {
+    width: 250px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+/* ===== CARD 6: Scrolling text bar ===== */
+#a6 {
+    width: 81.5%;
+    height: 80px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+/* ===== TYPOGRAPHY ===== */
+#a7 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#a8 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 50px;
+}
+
+#a9 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    margin-top: auto;
+    padding-top: 40px;
+}
+
+#a10 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #f8f8f8;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#a11 img {
+    width: 200px;
+    position: absolute;
+    right: 10px;
+    top: 30px;
+}
+
+/* ===== TODAY / TOMORROW CARDS ===== */
+#a12 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #f4f4f4;
+    font-size: 45px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#a13 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bolder;
+    white-space: nowrap;
+    margin-top: 5px;
+}
+
+#a14 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fcfcfc;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+#a14 p, #a17 p {
+    margin: 0;
+}
+
+#a15 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fefefe;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#a16 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bolder;
+    white-space: nowrap;
+    margin-top: 5px;
+}
+
+#a17 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+/* ===== DETAIL CARDS (a4, a5) ===== */
+#a20, #a21 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ebebeb;
+    font-size: 16px;
+    font-weight: bolder;
+    white-space: nowrap;
+    line-height: 2.1;
+    flex: 1;
+}
+
+/* Icons column */
+.icons-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px;
+    padding-left: 5px;
+}
+
+.icons-col img {
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+}
+
+/* ===== SCROLLING TEXT ===== */
+#a18 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 28px;
+    color: #fff;
+    animation: slide 12s linear infinite;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@keyframes slide {
+    0%   { left: 100%; }
+    100% { left: -100%; }
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+    .top-row {
+        flex-wrap: wrap;
+    }
+
+    .bottom-row {
+        margin-left: 0;
+        flex-wrap: wrap;
+    }
+
+    #a1 {
+        width: 100%;
+        min-height: 250px;
+    }
+
+    #a2, #a3, #a4, #a5 {
+        flex: 1;
+        min-width: 200px;
+    }
+
+    #a6 {
+        width: 100%;
+    }
+
+    #a7 { font-size: 35px; }
+    #a9 { font-size: 35px; padding-top: 10px; }
+    #a12 { font-size: 30px; }
+    #a15 { font-size: 24px; }
+}
+
+@media (max-width: 600px) {
+    .top-row, .bottom-row {
+        flex-direction: column;
+    }
+
+    #a2, #a3, #a4, #a5 {
+        width: 100%;
+    }
+}
