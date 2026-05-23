@@ -439,7 +439,7 @@ line-height: 1.9;
     white-space: nowrap;
     top: 70px;
     right: 310px;
-    align-items: start;
+    align-items: start!important;
 }
 
  #a15{
@@ -474,7 +474,7 @@ line-height: 1.9;
     white-space: nowrap;
     top: 70px;
     right: 350px;
-    align-items: start;
+    align-items: start!important;
 }
 
 
