@@ -476,9 +476,18 @@ line-height: 1.9;
     right: 350px;
     align-items: start;
 }
+
 @media (max-width: 768px) {
-    #a14 { right: 0; top: 0; }
-    #a17 { right: 0; top: 0; }
+    #a14 {
+        right: 0 !important;
+        top: 0 !important;
+        white-space: normal !important;
+    }
+    #a17 {
+        right: 0 !important;
+        top: 0 !important;
+        white-space: normal !important;
+    }
 }
 
 
