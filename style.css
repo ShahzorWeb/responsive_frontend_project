@@ -405,7 +405,7 @@ line-height: 1.9;
     position: relative;
     display: flex
 }
- 
+ }
 
  #a12{
     font-family: 'Times New Roman', Times, serif;
@@ -476,7 +476,6 @@ line-height: 1.9;
     right: 350px;
     align-items: start;
 }
-}   
 
 
 
